@@ -20,5 +20,5 @@
 
 ---
 
-##⚠️ Security note
+## ⚠️ Security note
 This project is for educational purposes. It is not designed to protect information in real-world environments or to replace professional cryptographic solutions.
